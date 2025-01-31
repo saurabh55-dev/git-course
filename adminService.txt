@@ -4,4 +4,8 @@ manage the database
 closing connection
 
 change 1
+<<<<<<< HEAD
 change 2 in harsh's database by admin
+=======
+change 2 in feature3 database
+>>>>>>> feature3
